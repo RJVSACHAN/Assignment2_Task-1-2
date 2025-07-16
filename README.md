@@ -14,12 +14,6 @@ for i in range(1, 51):
     Sum += i
 print(f'The sum of numbers from 1 to 50 is: {Sum}')
 
-# Task 2: Sum of Integers from 1 to 50 Using for Loop
-'''Sum = 0
-for i in range(1, 51):
-    Sum += i
-print(f'The sum of numbers from 1 to 50 is: {Sum}')'''
-
 # Task 2: Sum of Integers between two numbers Using for Loop
 Sum = 0
 a=int(input('Enter the first number: '))
