@@ -1,5 +1,5 @@
 # Solution of Assignment 2: Module 3: Control Structures in Python
-# Check for even and odd number
+# Task-1: Check for even and odd number
 a=int(input('Enter the number: '))
 b=a%2
 if b==0:
